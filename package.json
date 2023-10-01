@@ -1,0 +1,14 @@
+{
+  "name": "google-drive",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "googleapis": "^126.0.1"
+  }
+}
